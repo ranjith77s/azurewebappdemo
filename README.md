@@ -1,2 +1,2 @@
 # azurewebappdemo
-initial commit
+Azure Web App demo
